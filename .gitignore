@@ -1,0 +1,5 @@
+GUI-Image
+GUI-Image/**
+.idea
+.idea/**
+*.iml
